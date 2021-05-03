@@ -1,6 +1,6 @@
-# additemapp
+# add item app
 
-A new Flutter application.
+simple flutter app.
 
 ## Getting Started
 
